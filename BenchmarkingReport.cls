@@ -19,6 +19,9 @@
 	frame=shadowbox,
 	linewidth=\textwidth,
 	autogobble=true
+	basicstyle=\footnotesize,
+	numbers=left,
+	stepnumber=1
 }
 \lstset{style=benchmarking_report_listings_style}
 
